@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My Name is Diego, I am currently working on getting some IT/cybersecurity certificates.
+I am looking to help out on security realted open source projects.
+
